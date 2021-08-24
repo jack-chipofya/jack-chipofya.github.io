@@ -1,4 +1,3 @@
 ## CADEL CODES
-```
-Welcome to cadel codes my projects blogging site
-```
+
+Projects and tutorial website
